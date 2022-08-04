@@ -1,0 +1,13 @@
+.nav-color{
+    background-color: #73926C;
+}
+
+@media only screen and (min-width: 1425px) {
+    .nav-width{
+        width: 1200px;
+    }
+    .align-center{
+        display: flex;
+        justify-content: center;
+    }
+}
